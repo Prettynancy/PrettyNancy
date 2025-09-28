@@ -26,7 +26,7 @@ I enjoy building tools, apps, and systems that make life simpler.
 ## 📊 GitHub Stats  
 ![prettynancy's GitHub stats](https://github-readme-stats.vercel.app/api?username=prettynancy&show_icons=true&theme=tokyonight)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prettynancy&layout=compact&theme=tokyonight)  
 
 ## 📫 Connect with Me  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/prettynancy)  
