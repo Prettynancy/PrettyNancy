@@ -24,11 +24,11 @@ I enjoy building tools, apps, and systems that make life simpler.
 🚀 Advanced **Blockchain Development** & **AI-powered systems**  
 
 ## 📊 GitHub Stats  
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight)  
+![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?prettynancy=prettynancy&show_icons=true&theme=tokyonight)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?prettynancy=prettnancy&layout=compact&theme=tokyonight)  
 
 ## 📫 Connect with Me  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/PrettyNancy)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/UkamakaUgwuegbu)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ukamaka_Ugwuegbu)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/Amaka_Nac)
